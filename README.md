@@ -1,5 +1,10 @@
 # Agent Sandbox
 
+[![Tests](https://github.com/BabyChrist666/agent-sandbox/actions/workflows/tests.yml/badge.svg)](https://github.com/BabyChrist666/agent-sandbox/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/BabyChrist666/agent-sandbox/branch/master/graph/badge.svg)](https://codecov.io/gh/BabyChrist666/agent-sandbox)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A secure code execution environment for AI agents. Provides isolated sandboxes with configurable permissions, audit logging, and multiple isolation backends.
 
 ## Features
